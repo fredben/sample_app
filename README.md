@@ -1,0 +1,1 @@
+This is the sample applicaion by [Freddy Benjamin](https://www.facebook.com/fredcv).
